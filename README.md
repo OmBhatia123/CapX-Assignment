@@ -1,1 +1,1 @@
-#### Stock Prediction Model using Twitter Sentiment Analysis
+## Stock Prediction Model using Twitter Sentiment Analysis
