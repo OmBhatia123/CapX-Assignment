@@ -1,1 +1,1 @@
-# CapX-Assignment
+#### Stock Prediction Model using Twitter Sentiment Analysis
